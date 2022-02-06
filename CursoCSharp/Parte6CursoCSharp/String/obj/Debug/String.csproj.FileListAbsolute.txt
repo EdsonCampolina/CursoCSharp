@@ -1,0 +1,7 @@
+C:\Users\Matheus\Desktop\Edson\Parte6CursoCSharp\String\bin\Debug\String.exe.config
+C:\Users\Matheus\Desktop\Edson\Parte6CursoCSharp\String\bin\Debug\String.exe
+C:\Users\Matheus\Desktop\Edson\Parte6CursoCSharp\String\bin\Debug\String.pdb
+C:\Users\Matheus\Desktop\Edson\Parte6CursoCSharp\String\obj\Debug\String.csprojAssemblyReference.cache
+C:\Users\Matheus\Desktop\Edson\Parte6CursoCSharp\String\obj\Debug\String.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Edson\Parte6CursoCSharp\String\obj\Debug\String.exe
+C:\Users\Matheus\Desktop\Edson\Parte6CursoCSharp\String\obj\Debug\String.pdb

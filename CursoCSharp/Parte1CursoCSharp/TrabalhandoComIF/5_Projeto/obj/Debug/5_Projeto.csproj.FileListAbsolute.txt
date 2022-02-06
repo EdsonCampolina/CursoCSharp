@@ -1,0 +1,6 @@
+C:\Users\Matheus\Desktop\Edson\TrabalhandoComIF\5_Projeto\bin\Debug\5_Projeto.exe.config
+C:\Users\Matheus\Desktop\Edson\TrabalhandoComIF\5_Projeto\bin\Debug\5_Projeto.exe
+C:\Users\Matheus\Desktop\Edson\TrabalhandoComIF\5_Projeto\bin\Debug\5_Projeto.pdb
+C:\Users\Matheus\Desktop\Edson\TrabalhandoComIF\5_Projeto\obj\Debug\5_Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Edson\TrabalhandoComIF\5_Projeto\obj\Debug\5_Projeto.exe
+C:\Users\Matheus\Desktop\Edson\TrabalhandoComIF\5_Projeto\obj\Debug\5_Projeto.pdb

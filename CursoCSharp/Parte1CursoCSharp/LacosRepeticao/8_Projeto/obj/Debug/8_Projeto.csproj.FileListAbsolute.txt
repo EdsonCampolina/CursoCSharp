@@ -1,0 +1,12 @@
+C:\Users\Matheus\Desktop\Edson\LacosRepeticao\8_Projeto\bin\Debug\8_Projeto.exe.config
+C:\Users\Matheus\Desktop\Edson\LacosRepeticao\8_Projeto\bin\Debug\8_Projeto.exe
+C:\Users\Matheus\Desktop\Edson\LacosRepeticao\8_Projeto\bin\Debug\8_Projeto.pdb
+C:\Users\Matheus\Desktop\Edson\LacosRepeticao\8_Projeto\obj\Debug\8_Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Edson\LacosRepeticao\8_Projeto\obj\Debug\8_Projeto.exe
+C:\Users\Matheus\Desktop\Edson\LacosRepeticao\8_Projeto\obj\Debug\8_Projeto.pdb
+C:\Users\Matheus\Desktop\Edson\Parte1CursoCSharp\LacosRepeticao\8_Projeto\bin\Debug\8_Projeto.exe.config
+C:\Users\Matheus\Desktop\Edson\Parte1CursoCSharp\LacosRepeticao\8_Projeto\bin\Debug\8_Projeto.exe
+C:\Users\Matheus\Desktop\Edson\Parte1CursoCSharp\LacosRepeticao\8_Projeto\bin\Debug\8_Projeto.pdb
+C:\Users\Matheus\Desktop\Edson\Parte1CursoCSharp\LacosRepeticao\8_Projeto\obj\Debug\8_Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Edson\Parte1CursoCSharp\LacosRepeticao\8_Projeto\obj\Debug\8_Projeto.exe
+C:\Users\Matheus\Desktop\Edson\Parte1CursoCSharp\LacosRepeticao\8_Projeto\obj\Debug\8_Projeto.pdb

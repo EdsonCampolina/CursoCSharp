@@ -1,0 +1,6 @@
+C:\Users\Matheus\Desktop\Edson\Parte5CursoCSharp\ByteBank\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.dll
+C:\Users\Matheus\Desktop\Edson\Parte5CursoCSharp\ByteBank\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.pdb
+C:\Users\Matheus\Desktop\Edson\Parte5CursoCSharp\ByteBank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Edson\Parte5CursoCSharp\ByteBank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.dll
+C:\Users\Matheus\Desktop\Edson\Parte5CursoCSharp\ByteBank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.pdb
+C:\Users\Matheus\Desktop\Edson\Parte5CursoCSharp\ByteBank\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.xml

@@ -1,0 +1,7 @@
+C:\Users\Matheus\Desktop\Edson\POO\POO\4_Projeto\bin\Debug\4_Projeto.exe.config
+C:\Users\Matheus\Desktop\Edson\POO\POO\4_Projeto\bin\Debug\4_Projeto.exe
+C:\Users\Matheus\Desktop\Edson\POO\POO\4_Projeto\bin\Debug\4_Projeto.pdb
+C:\Users\Matheus\Desktop\Edson\POO\POO\4_Projeto\obj\Debug\4_Projeto.csprojAssemblyReference.cache
+C:\Users\Matheus\Desktop\Edson\POO\POO\4_Projeto\obj\Debug\4_Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Edson\POO\POO\4_Projeto\obj\Debug\4_Projeto.exe
+C:\Users\Matheus\Desktop\Edson\POO\POO\4_Projeto\obj\Debug\4_Projeto.pdb

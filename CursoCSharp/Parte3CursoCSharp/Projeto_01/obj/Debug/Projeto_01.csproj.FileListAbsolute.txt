@@ -1,0 +1,7 @@
+C:\Users\Matheus\Desktop\Edson\Parte3CursoCSharp\Projeto_01\bin\Debug\Projeto_01.exe.config
+C:\Users\Matheus\Desktop\Edson\Parte3CursoCSharp\Projeto_01\bin\Debug\Projeto_01.exe
+C:\Users\Matheus\Desktop\Edson\Parte3CursoCSharp\Projeto_01\bin\Debug\Projeto_01.pdb
+C:\Users\Matheus\Desktop\Edson\Parte3CursoCSharp\Projeto_01\obj\Debug\Projeto_01.csprojAssemblyReference.cache
+C:\Users\Matheus\Desktop\Edson\Parte3CursoCSharp\Projeto_01\obj\Debug\Projeto_01.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Edson\Parte3CursoCSharp\Projeto_01\obj\Debug\Projeto_01.exe
+C:\Users\Matheus\Desktop\Edson\Parte3CursoCSharp\Projeto_01\obj\Debug\Projeto_01.pdb

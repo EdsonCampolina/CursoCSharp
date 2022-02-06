@@ -1,0 +1,6 @@
+C:\Users\Matheus\Desktop\Edson\AprendendoCSharp\TerceiroProjeto\bin\Debug\TerceiroProjeto.exe.config
+C:\Users\Matheus\Desktop\Edson\AprendendoCSharp\TerceiroProjeto\bin\Debug\TerceiroProjeto.exe
+C:\Users\Matheus\Desktop\Edson\AprendendoCSharp\TerceiroProjeto\bin\Debug\TerceiroProjeto.pdb
+C:\Users\Matheus\Desktop\Edson\AprendendoCSharp\TerceiroProjeto\obj\Debug\TerceiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Edson\AprendendoCSharp\TerceiroProjeto\obj\Debug\TerceiroProjeto.exe
+C:\Users\Matheus\Desktop\Edson\AprendendoCSharp\TerceiroProjeto\obj\Debug\TerceiroProjeto.pdb

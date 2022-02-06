@@ -1,0 +1,11 @@
+C:\Users\Matheus\Desktop\Edson\ProjetoByteBank\ByteBank\BytebankImportacaoExportacao\bin\Debug\BytebankImportacaoExportacao.exe.config
+C:\Users\Matheus\Desktop\Edson\ProjetoByteBank\ByteBank\BytebankImportacaoExportacao\bin\Debug\BytebankImportacaoExportacao.exe
+C:\Users\Matheus\Desktop\Edson\ProjetoByteBank\ByteBank\BytebankImportacaoExportacao\bin\Debug\BytebankImportacaoExportacao.pdb
+C:\Users\Matheus\Desktop\Edson\ProjetoByteBank\ByteBank\BytebankImportacaoExportacao\obj\Debug\BytebankImportacaoExportacao.csprojAssemblyReference.cache
+C:\Users\Matheus\Desktop\Edson\ProjetoByteBank\ByteBank\BytebankImportacaoExportacao\obj\Debug\BytebankImportacaoExportacao.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Edson\ProjetoByteBank\ByteBank\BytebankImportacaoExportacao\obj\Debug\BytebankImportacaoExportacao.exe
+C:\Users\Matheus\Desktop\Edson\ProjetoByteBank\ByteBank\BytebankImportacaoExportacao\obj\Debug\BytebankImportacaoExportacao.pdb
+C:\Users\Matheus\Desktop\Edson\ProjetoByteBank\ByteBank\BytebankImportacaoExportacao\bin\Debug\ByteBank.Modelos.dll
+C:\Users\Matheus\Desktop\Edson\ProjetoByteBank\ByteBank\BytebankImportacaoExportacao\bin\Debug\ByteBank.Modelos.pdb
+C:\Users\Matheus\Desktop\Edson\ProjetoByteBank\ByteBank\BytebankImportacaoExportacao\bin\Debug\ByteBank.Modelos.xml
+C:\Users\Matheus\Desktop\Edson\ProjetoByteBank\ByteBank\BytebankImportacaoExportacao\obj\Debug\BytebankImportacaoExportacao.csproj.CopyComplete

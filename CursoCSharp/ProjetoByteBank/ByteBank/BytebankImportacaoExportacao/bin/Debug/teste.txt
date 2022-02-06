@@ -1,0 +1,21 @@
+Escrevendo no arquivo. Linha 0
+Número randômico igual a 23
+Escrevendo no arquivo. Linha 1
+Número randômico igual a 26
+Escrevendo no arquivo. Linha 2
+Número randômico igual a 16
+Escrevendo no arquivo. Linha 3
+Número randômico igual a 14
+Escrevendo no arquivo. Linha 4
+Número randômico igual a 11
+Escrevendo no arquivo. Linha 5
+Número randômico igual a 17
+Escrevendo no arquivo. Linha 6
+Número randômico igual a 14
+Escrevendo no arquivo. Linha 7
+Número randômico igual a 20
+Escrevendo no arquivo. Linha 8
+Número randômico igual a 24
+Escrevendo no arquivo. Linha 9
+Número randômico igual a 0
+A soma total dos números é igual a 165

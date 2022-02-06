@@ -1,0 +1,6 @@
+C:\Users\Matheus\Desktop\Edson\LacosRepeticao\2_Projeto\bin\Debug\2_Projeto.exe.config
+C:\Users\Matheus\Desktop\Edson\LacosRepeticao\2_Projeto\bin\Debug\2_Projeto.exe
+C:\Users\Matheus\Desktop\Edson\LacosRepeticao\2_Projeto\bin\Debug\2_Projeto.pdb
+C:\Users\Matheus\Desktop\Edson\LacosRepeticao\2_Projeto\obj\Debug\2_Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Edson\LacosRepeticao\2_Projeto\obj\Debug\2_Projeto.exe
+C:\Users\Matheus\Desktop\Edson\LacosRepeticao\2_Projeto\obj\Debug\2_Projeto.pdb

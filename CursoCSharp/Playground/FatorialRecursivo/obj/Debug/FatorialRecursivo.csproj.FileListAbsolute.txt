@@ -1,0 +1,6 @@
+C:\Users\Matheus\Desktop\Edson\Playground\FatorialRecursivo\bin\Debug\FatorialRecursivo.exe.config
+C:\Users\Matheus\Desktop\Edson\Playground\FatorialRecursivo\bin\Debug\FatorialRecursivo.exe
+C:\Users\Matheus\Desktop\Edson\Playground\FatorialRecursivo\bin\Debug\FatorialRecursivo.pdb
+C:\Users\Matheus\Desktop\Edson\Playground\FatorialRecursivo\obj\Debug\FatorialRecursivo.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Edson\Playground\FatorialRecursivo\obj\Debug\FatorialRecursivo.exe
+C:\Users\Matheus\Desktop\Edson\Playground\FatorialRecursivo\obj\Debug\FatorialRecursivo.pdb
